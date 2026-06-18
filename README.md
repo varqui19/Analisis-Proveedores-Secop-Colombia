@@ -1,3 +1,4 @@
+<img width="464" height="457" alt="Query1_top_municipios" src="https://github.com/user-attachments/assets/e69fa4bf-1f5f-4e63-8643-de821a981415" />
 # Pipeline de Datos y Dashboard de Proveedores del Estado (Colombia)📊 
 
 Este proyecto implementa una solución completa de **Ingeniería y Analítica de Datos (End-to-End)**. Automatiza la extracción de más de 50,000 registros desde la API pública de Datos Abiertos de Colombia, realiza un proceso de limpieza y transformación (ETL) mediante Python, almacena la información de forma estructurada en SQL Server y finaliza con un tablero de control interactivo en Power BI enfocado en el análisis de mercado y auditoría operativa.
@@ -31,13 +32,17 @@ El flujo de los datos sigue la siguiente estructura lógica:
 Dentro del motor se ejecutaron análisis avanzados para el negocio y el equipo de control interno:
 
 * **Análisis de Densidad:** Identificación del Top 10 de municipios con mayor concentración de proveedores.
-<img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/aa3ef49d-88a1-4e7a-b7ba-8863046ad1c7" />
+
+<img width="464" height="457" alt="Query1_top_municipios" src="https://github.com/user-attachments/assets/fb28a0e8-9570-4d5e-8d8f-ae3862e6189b" />
 
 * **Auditoría de Formalidad:** Clasificación de correos electrónicos para determinar la madurez digital del mercado (Correos corporativos vs. dominios gratuitos como Gmail/Hotmail).
-<img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/aa3ef49d-88a1-4e7a-b7ba-8863046ad1c7" />
+
+<img width="809" height="519" alt="Query4_auditoria_correos" src="https://github.com/user-attachments/assets/a6e22659-c586-48c0-931a-c19a9ebec0b7" />
 
 * **Alertas de Fraude (Empresas Fachada):** Detección de múltiples NITs diferentes que operan bajo un mismo número de teléfono registrado.
-<img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/aa3ef49d-88a1-4e7a-b7ba-8863046ad1c7" />
+
+<img width="763" height="801" alt="Query5_alertas_telefonos" src="https://github.com/user-attachments/assets/eac8121e-6b87-4910-9eca-4429c31e17ad" />
+
 ---
 
 ## Acceso al Proyecto
