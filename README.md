@@ -1,4 +1,3 @@
-<img width="464" height="457" alt="Query1_top_municipios" src="https://github.com/user-attachments/assets/e69fa4bf-1f5f-4e63-8643-de821a981415" />
 # Pipeline de Datos y Dashboard de Proveedores del Estado (Colombia)📊 
 
 Este proyecto implementa una solución completa de **Ingeniería y Analítica de Datos (End-to-End)**. Automatiza la extracción de más de 50,000 registros desde la API pública de Datos Abiertos de Colombia, realiza un proceso de limpieza y transformación (ETL) mediante Python, almacena la información de forma estructurada en SQL Server y finaliza con un tablero de control interactivo en Power BI enfocado en el análisis de mercado y auditoría operativa.
